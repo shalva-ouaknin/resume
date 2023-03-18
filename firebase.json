@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "target": "shalva-ouaknin",
     "public": "public",
     "ignore": [
       "firebase.json",
